@@ -1,0 +1,28 @@
+{
+  "theme": {
+    "name": "Lapa - Minimal & Modern WooCommerce Theme",
+    "version": "1.1.4"
+  },
+  "plugins": {
+    "lastudio": {
+      "name": "LA-Studio Core",
+      "source": "https://la-studioweb.com/file-resouces/lapa/plugins/lastudio/1.1.1/lastudio.zip",
+      "version": "1.1.1"
+    },
+    "lapa-demo-data": {
+      "name": "Lapa Package Demo Data",
+      "source": "https://la-studioweb.com/file-resouces/lapa/plugins/lapa-demo-data/1.0.1/lapa-demo-data.zip",
+      "version": "1.0.1"
+    },
+    "revslider": {
+      "name": "Slider Revolution",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/revslider_v6.3.5.zip",
+      "version": "6.3.5"
+    },
+    "js_composer": {
+      "name": "WPBakery Visual Compose",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/js_composer_v6.5.0.zip",
+      "version": "6.5.0"
+    }
+  }
+}
