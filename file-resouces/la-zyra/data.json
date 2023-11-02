@@ -1,0 +1,28 @@
+{
+  "theme": {
+    "name": "Zyra - Clean, Minimal WooCommerce Theme",
+    "version": "1.2.0"
+  },
+  "plugins": {
+    "lastudio-core": {
+      "name": "LA-Studio Core",
+      "source": "https://la-studioweb.com/file-resouces/la-zyra/plugins/lastudio-core/3.1.7/lastudio-core.zip",
+      "version": "3.1.7"
+    },
+    "la-zyra-demo-data": {
+      "name": "Zyra Package Demo Data",
+      "source": "https://la-studioweb.com/file-resouces/la-zyra/plugins/la-zyra-demo-data/1.0.2/la-zyra-demo-data.zip",
+      "version": "1.0.2"
+    },
+    "revslider": {
+      "name": "Slider Revolution",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/revslider_v6.2.23.zip",
+      "version": "6.2.23"
+    },
+    "js_composer": {
+      "name": "WPBakery Visual Compose",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/js_composer_v6.4.2.zip",
+      "version": "6.4.2"
+    }
+  }
+}
