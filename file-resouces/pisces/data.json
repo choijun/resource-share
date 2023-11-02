@@ -1,0 +1,28 @@
+{
+  "theme": {
+    "name": "Pisces - Multi Concept Creative Theme",
+    "version": "2.0.9"
+  },
+  "plugins": {
+    "lastudio-core": {
+      "name": "LA-Studio Core",
+      "source": "https://la-studioweb.com/file-resouces/pisces/plugins/lastudio-core/3.0.7/lastudio-core.zip",
+      "version": "3.0.7"
+    },
+    "pisces-demo-data": {
+      "name": "Pisces Package Demo Data",
+      "source": "https://la-studioweb.com/file-resouces/pisces/plugins/pisces-demo-data/1.0.0/pisces-demo-data.zip",
+      "version": "1.0.0"
+    },
+    "revslider": {
+      "name": "Slider Revolution",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/revslider_v6.3.9.zip",
+      "version": "6.3.9"
+    },
+    "js_composer": {
+      "name": "WPBakery Visual Compose",
+      "source": "https://la-studioweb.com/file-resouces/shared/plugins/js_composer_v6.5.0.zip",
+      "version": "6.5.0"
+    }
+  }
+}
